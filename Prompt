@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<h1 align="center">Javascript Tutorial</h1>
+	<script>
+		var username=prompt("Enter Your User's Name : ");
+        if(username!=null)
+        {
+        	//window.open("https://www.google.com/")
+
+        	alert("Good Day "+username+"!");
+        
+        }
+        else
+        {
+        	alert("Good Bye");
+        }
+
+	</script>
+	</body>
+	</html>
